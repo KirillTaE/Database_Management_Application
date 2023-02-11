@@ -1,0 +1,41 @@
+<RCC>
+    <qresource prefix="/images">
+		<file>images/rem.jpg</file>
+		
+		<file>images/database.svg</file>
+		<file>images/database.png</file>
+		
+        <file>images/accept_database.svg</file>
+		<file>images/sohranbaz.png</file>
+		
+        <file>images/add_database.svg</file>
+		<file>images/zagruzkabaz.png</file>
+		
+        <file>images/add_row.svg</file>
+		<file>images/add.png</file>
+		
+        <file>images/data_backup.svg</file>
+
+		
+        <file>images/data_recovery.svg</file>
+		<file>images/slianie.png</file>
+		
+        <file>images/delete_database.svg</file>
+
+		
+        <file>images/delete_row.svg</file>
+		<file>images/delete.png</file>
+		
+        <file>images/search.svg</file>
+		<file>images/search.png</file>
+		
+        <file>images/cancel.svg</file>
+
+		
+        <file>images/info.svg</file>
+		<file>images/about.png</file>
+		
+        <file>images/exit.svg</file>
+		<file>images/exit.png</file>
+    </qresource>
+</RCC>
